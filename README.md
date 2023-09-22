@@ -24,7 +24,8 @@ Treinamento de Intervalos:
 Tocar pares de notas separadas por um intervalo musical.
 Peça ao usuário para identificar o intervalo entre as notas.
 
-Musical Ear Training App
+#Musical Ear Training App 
+
 I intend to develop a desktop app with the following features: a musical ear training application that allows users to explore and listen to different musical notes and chords using a variety of instrument timbres. The app will be developed in Python, using the PySide6 library for the graphical interface and the FluidSynth library for audio playback. When a note or chord is played, the corresponding note or chord on the interface will be visually highlighted, and there will be audible feedback to indicate that a note or chord has been played.
 
 Key Features:
